@@ -8,4 +8,6 @@
 
 :bulb: I am currently seeking New Grad opportunities in software engineering. Feel free to get in touch with me!
 
-📫 Emai: jiawenhe01@gmail.com
+📫 Email: jiawenhe01@gmail.com
+
+:moyai: fun fact: I have been study rocks for 6 years!
