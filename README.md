@@ -10,4 +10,4 @@
 
 📫 Email: jiawenhe01@gmail.com
 
-:moyai: fun fact: I have studied rocks for 6 years!
+:moyai: fun fact: I studied rocks for 6 years!
