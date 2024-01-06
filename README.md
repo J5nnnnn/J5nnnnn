@@ -1,12 +1,12 @@
 # ME
 
-👋 Hi, I’m Jiawen (J) He or +5N He 
+👋 Hi, I’m J5n He or +5N He 
 
-:hatched_chick: I’m interested in coding, workout, basketball, Cinematography
+:hatched_chick: Interested in ⌨️, 🏋️, 🏀, 📹, 🏂, 🥘
 
-:mortar_board: Master student in Computer Science at Northeastern University in Seattle, WA.
+:mortar_board: MS CS at Northeastern University in Seattle, WA.
 
-:bulb: I am currently seeking New Grad opportunities in software engineering. Feel free to get in touch with me!
+:bulb: I am currently seeking and working on interesting IAM projects
 
 📫 Email: jiawenhe01@gmail.com
 
