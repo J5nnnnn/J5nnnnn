@@ -8,6 +8,4 @@
 
 :bulb: I am currently seeking and working on interesting IAM projects
 
-📫 Email: jiawenhe01@gmail.com
-
 :moyai: fun fact: I studied rocks for 6 years!
